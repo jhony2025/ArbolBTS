@@ -99,10 +99,10 @@ El programa permite gestionar nodos dentro del árbol, realizando operaciones b�
 ## Información del Autor
 
 **Nombre:** Johnny Vera
-**Universidad:** Universidad Estatal Amazónica (UEA)
-**Asignatura:** Programación / Estructuras de Datos
-**Año:** 2026
-**Fecha:** Marzo 2026
+- **Universidad:** Universidad Estatal Amazónica (UEA)
+- **Asignatura:** Programación / Estructuras de Datos
+- **Año:** 2026
+- **Fecha:** Marzo 2026
 
 ## Descripción del Proyecto
 
