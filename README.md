@@ -91,3 +91,26 @@ En la ventana de la aplicación encontrarás:
 
 ### Notas
 Este proyecto está diseñado principalmente como ejercicio de aprendizaje y puede adaptarse o ampliarse para incluir más operaciones, balanceo (AVL, Red-Black) o mejor visualización del árbol.
+# Implementación de Árbol Binario de Búsqueda (BST) en C#
+
+Este repositorio contiene el desarrollo de una aplicación de consola en C# que implementa un **Árbol Binario de Búsqueda (Binary Search Tree - BST)**.
+El programa permite gestionar nodos dentro del árbol, realizando operaciones básicas como inserción, búsqueda y recorridos.
+
+## Información del Autor
+
+**Nombre:** Johnny Vera
+**Universidad:** Universidad Estatal Amazónica (UEA)
+**Asignatura:** Programación / Estructuras de Datos
+**Año:** 2026
+**Fecha:** Marzo 2026
+
+## Descripción del Proyecto
+
+El objetivo de este proyecto es aplicar los conceptos fundamentales de estructuras de datos mediante la implementación de un Árbol Binario de Búsqueda en C#.
+El sistema permite trabajar con nodos y visualizar el funcionamiento de los recorridos del árbol, fortaleciendo el aprendizaje práctico en programación orientada a objetos.
+
+## Tecnologías utilizadas
+
+* Lenguaje de programación: C#
+* Entorno de desarrollo: Visual Studio
+* Tipo de aplicación: Consola (.NET)
