@@ -1,0 +1,14 @@
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.AssemblyInfoInputs.cache
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.AssemblyInfo.cs
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.csproj.CoreCompileInputs.cache
+D:\Programa\Arblobts\bin\Debug\net6.0-windows\ArbolBST.exe
+D:\Programa\Arblobts\bin\Debug\net6.0-windows\ArbolBST.deps.json
+D:\Programa\Arblobts\bin\Debug\net6.0-windows\ArbolBST.runtimeconfig.json
+D:\Programa\Arblobts\bin\Debug\net6.0-windows\ArbolBST.dll
+D:\Programa\Arblobts\bin\Debug\net6.0-windows\ArbolBST.pdb
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.dll
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\refint\ArbolBST.dll
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.pdb
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ArbolBST.genruntimeconfig.cache
+D:\Programa\Arblobts\obj\Debug\net6.0-windows\ref\ArbolBST.dll
